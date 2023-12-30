@@ -1,0 +1,2 @@
+#在spring.factories文件中开启Spring Boot 自动配置
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.yamon.middleware.db.router.config.DataSourceAutoConfig
